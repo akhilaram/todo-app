@@ -1,7 +1,7 @@
 "commands for running react-app"
 
 -->Traverse through project in terminal:
-	cd todo-app
+	cd todo-app-master
 
 -->install all dependencies using:
 	npm install 
