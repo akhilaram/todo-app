@@ -28,5 +28,3 @@
 3.Save it
 4.Delete Todo Task
 
-
-we can also add functionalities like check completed task,active and inactive tasks and so on.
