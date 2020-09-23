@@ -1,0 +1,19 @@
+{
+  "name": "my-todo-server",
+  "version": "1.0.0",
+  "description": "MY-TODO-SERVER",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Akhila Adapa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

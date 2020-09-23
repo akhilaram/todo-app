@@ -1,0 +1,32 @@
+"commands for running react-app"
+
+-->Traverse through project in terminal:
+	cd todo-app
+
+-->install all dependencies using:
+	npm install 
+
+-->start the application
+	npm start
+
+
+"command to start node"
+
+-->Traverse through node folder inside todo-app
+	cd my-todo-server 
+
+--->install all dependencies
+	npm install
+
+--->start the application
+	npm start
+
+
+
+1.Add Todo Task 
+2.Edit Todo Task
+3.Save it
+4.Delete Todo Task
+
+
+we can also add functionalities like check completed task,active and inactive tasks and so on.
